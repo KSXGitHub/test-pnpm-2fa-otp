@@ -1,0 +1,17 @@
+{
+  "name": "@khai96x/test-pnpm-2fa-otp",
+  "version": "0.0.0",
+  "description": "Testing 2FA OTP feature of pnpm",
+  "homepage": "https://github.com/KSXGitHub/test-pnpm-2fa-otp#readme",
+  "bugs": {
+    "url": "https://github.com/KSXGitHub/test-pnpm-2fa-otp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSXGitHub/test-pnpm-2fa-otp.git"
+  },
+  "license": "MIT",
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js"
+}
