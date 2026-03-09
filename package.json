@@ -14,5 +14,8 @@
   "license": "MIT",
   "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
   "type": "commonjs",
-  "main": "index.js"
+  "main": "index.js",
+  "devDependencies": {
+    "npm": "^11.11.0"
+  }
 }
