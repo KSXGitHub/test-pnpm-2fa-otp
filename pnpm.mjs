@@ -1,0 +1,1 @@
+/home/khai/programming/pnpm/pnpm/bin/pnpm.mjs
