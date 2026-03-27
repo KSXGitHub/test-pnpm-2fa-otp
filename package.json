@@ -1,7 +1,7 @@
 {
   "name": "@khai96x/test-pnpm-2fa-otp",
   "private": false,
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Testing 2FA OTP feature of pnpm",
   "homepage": "https://github.com/KSXGitHub/test-pnpm-2fa-otp#readme",
   "bugs": {
